@@ -1,8 +1,7 @@
-# Implementation of PERSA RABIN
 # SimulaMath Implementation Version >=1.1
 # To test code :
 #   - Open Simulamath
-#   - Load this file or copy and paste this to the programming Editor
+#   - Load this file or copy and paste it into the programming editor.
 
 
 def is_cube(a, p): 

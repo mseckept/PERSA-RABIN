@@ -1,4 +1,4 @@
-Implementation of Persa Rabin Scheme.
+Implementation of the public key encryption scheme.
 
 Avalable implementations
 
